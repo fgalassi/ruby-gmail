@@ -1,3 +1,9 @@
+=== 0.0.8.1 / 2010/04-16
+
+* 1 bugfix
+
+  * Fixed content-transfer-encoding when sending email
+
 === 0.0.8 / 2009/12-23
 
 * 1 bugfix
